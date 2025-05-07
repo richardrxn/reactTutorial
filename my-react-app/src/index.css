@@ -27,3 +27,23 @@
   color: black
 }
 
+.button{
+  background-color: red;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  
+}
+
+.student{
+  font-family: Georgia, sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.student p{
+  margin: 0;
+}
